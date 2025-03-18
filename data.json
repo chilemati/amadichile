@@ -79,6 +79,21 @@
                 }
             },
             {
+                "id": 8,
+                "img":"https://res.cloudinary.com/dlifiojbx/image/upload/v1742338024/myPortfolio/mychrome_fibthh.jpg",
+                "title": "Chrome Extension",
+                "languages": ["Html","Css","JavaScript"],
+                "dis": "Developed a Chrome extension using JavaScript and Object-Oriented Programming (OOP) to prevent autoplaying videos on any website. This project enhanced my expertise in MVC implementation, a crucial design pattern for managing complex projects efficiently ",
+                "code": {
+                    "text": "Code",
+                    "url": "#isPrivate"
+                },
+                "demo": {
+                    "text": "Demo",
+                    "url": "https://youtu.be/L6DTgfFAZyE"
+                }
+            },
+            {
                 "id": 1,
                 "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742243751/myPortfolio/blogging_m45hng.jpg",
                 "title": "Blogging Web App",
