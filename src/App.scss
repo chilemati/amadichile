@@ -65,10 +65,11 @@ html {
       border-radius: 100%;
       width: 20px;
       height: 20px;
-      background-image: url('./minus.svg');
+      background-image: url('/minus.svg');
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
+      border: 1px solid black;
      
      
       
@@ -80,10 +81,11 @@ html {
       border-radius: 100%;
       width: 20px;
       height: 20px;
-      background-image: url('./plus.svg');
+      background-image: url('/plus.svg');
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
+      border: 1px solid black;
      
       
     }
