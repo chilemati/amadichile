@@ -1,0 +1,197 @@
+{
+    "nav": [
+        {
+            "id": "Home",
+            "name": "Home",
+            "active": false
+        },
+        {
+            "id": "MyPortfolio",
+            "name": "Portfolio",
+            "active": false
+        },
+        {
+            "id": "About",
+            "name": "About me",
+            "active": false
+        },
+        {
+            "id": "Contact",
+            "name": "Contact",
+            "active": false
+        }
+    ],
+    "home": {
+        "line1": "I'm Amadi Chile",
+        "line2": "<span className='text-bold text-co1' > Full-Stack Web Developer and Tutor </span>. I learn and teach everything about Website Development.",
+        "line3": {
+            "boxa": [
+                {
+                    "name": "Linkedin",
+                    "icon": "/linkedin.svg",
+                    "url": "https://www.linkedin.com/in/amadi-chile-733060246/"
+                },
+                {
+                    "name": "Github",
+                    "icon": "/github.svg",
+                    "url": "https://github.com/chilemati"
+                },
+                {
+                    "name": "Whatsapp",
+                    "icon": "/whatsapp.svg",
+                    "url": "https://wa.me/+2348067846872"
+                },
+                {
+                    "name": "X",
+                    "icon": "/x.svg",
+                    "url": "https://x.com/Chilemathy"
+                },
+                {
+                    "name": "Instagram",
+                    "icon": "/instagram.svg",
+                    "url": "https://www.instagram.com/chile_mati/"
+                }
+            ],
+            "boxb": {
+                "name": "cv",
+                "icon": "/attachment.svg",
+                "url": "https://drive.usercontent.google.com/u/0/uc?id=1wh4MR5V2lI5nre86pkJsTsdAOby5mnY6&export=download"
+            }
+        }
+
+    },
+    "portfolio": {
+        "h2": "Latest Projects",
+        "projects": [
+            {
+                "id": 7,
+                "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742330298/myPortfolio/myMailer_hpb1pq.jpg",
+                "title": "Chile's Mailer",
+                "languages": ["Ejs","Node Js","Css","JavaScript"],
+                "dis": "A Free Node js API I built using Nodemailer to help me and other Frontend Developers send emails from A Frontend App without building a Backend ",
+                "code": {
+                    "text": "Code",
+                    "url": "https://github.com/chilemati/chilesmailer.git"
+                },
+                "demo": {
+                    "text": "Demo",
+                    "url": "https://chilesmailer.vercel.app/"
+                }
+            },
+            {
+                "id": 1,
+                "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742243751/myPortfolio/blogging_m45hng.jpg",
+                "title": "Blogging Web App",
+                "languages": ["React js","Node Js","Tailwind","Sass"],
+                "dis": "Second Intenship Task of BrainWave Matrix Solution. ",
+                "code": {
+                    "text": "Code",
+                    "url": "https://github.com/chilemati/Brainwave_Matrix_Intern"
+                },
+                "demo": {
+                    "text": "Demo",
+                    "url": "https://brainwave-matrix-intern-task2-orcin.vercel.app/"
+                }
+            },
+            {
+                "id": 2,
+                "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742243751/myPortfolio/jwclone_lwabkc.jpg",
+                "title": "Jw.org Clone",
+                "languages": ["React js","Node Js","Tailwind","Sass"],
+                "dis": "First Intenship task of BrainWave Matrix Solution. ",
+                "code": {
+                    "text": "Code",
+                    "url": "https://github.com/chilemati/Brainwave_Matrix_Intern"
+                },
+                "demo": {
+                    "text": "Demo",
+                    "url": "https://brainwave-matrix-intern-task1.vercel.app/"
+                }
+            },
+            {
+                "id": 3,
+                "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742243751/myPortfolio/preciouswogo_blglu0.jpg",
+                "title": "Portfolio Website",
+                "languages": ["Next js","Tailwind","Sass"],
+                "dis": "I updated and currently maintain this Website on Namecheap.",
+                "code": {
+                    "text": "Code",
+                    "url": "#isPrivate"
+                },
+                "demo": {
+                    "text": "Demo",
+                    "url": "https://preciouswogu.com/"
+                }
+            },
+            {
+                "id": 4,
+                "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742243751/myPortfolio/shareyourideas_q1jgml.jpg",
+                "title": "ShareYourIdeas",
+                "languages": ["React js","Node Js","Sass","Tailwind"],
+                "dis": "A web app I built to help People find skills and services close to them.",
+                "code": {
+                    "text": "Code",
+                    "url": "#isPrivate"
+                },
+                "demo": {
+                    "text": "Demo",
+                    "url": "https://shareyourideas.vercel.app/"
+                }
+            },
+            {
+                "id": 5,
+                "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742243751/myPortfolio/portfolio_y9dk0q.jpg",
+                "title": "Portfolio Project",
+                "languages": ["React js","Sass","Tailwind"],
+                "dis": "A Portfolio Website.",
+                "code": {
+                    "text": "Code",
+                    "url": "#isPrivate"
+                },
+                "demo": {
+                    "text": "Demo",
+                    "url": "https://portfolio-project-coral-nu.vercel.app/"
+                }
+            },
+            {
+                "id": 6,
+                "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742243751/myPortfolio/dashboard_cme7rs.jpg",
+                "title": "Dashboard Project",
+                "languages": ["React js","Tailwind","Tailwind"],
+                "dis": "A Dashboard web app. I added responsiveness which was absent in the figma design.",
+                "code": {
+                    "text": "Code",
+                    "url": "#isPrivate"
+                },
+                "demo": {
+                    "text": "Demo",
+                    "url": "https://dashboard-project-pied.vercel.app/"
+                }
+            }
+        ]
+    },
+    "about": {
+        "boxa": {
+            "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742243757/myPortfolio/IMG_20241208_074445_625_yw2bo5.jpg"
+
+        },
+        "boxb": {
+            "h3": "Nice to meet you,",
+            "h2": "I am Amadi Chile",
+            "p2": "Currently looking for a full-time or part-time job.",
+            "h4": "Code, Learn and Teach.",
+            "p4": "Coding is not just a skill that helps me earn a living, it is a skill I love because it aligns with my passion for solving problems. I am good with Frontend and Backend but currently have more experience with Frontend. If you are looking for an experienced developer, you have found one. Remember, developers will have many years of professional experience if given an oppurtuinity. I have years of experience in learning fast, solving problems, being diligent and in paying close attention to details as reflected on my <a className='underline hover:text-co1 ' href='#MyPortfolio' >lastest project</a>. "
+        },
+        "boxc": {
+            "h3": "My experience includes but not limited",
+            "experience":["Html","Css","Sass","Tailwind","Bootstrap","JavaScript","TypeScript","React js","Next js","React-native","Node Js","Git","MongoDb","Ejs"],
+            "h4": "Learning",
+            "learning":["Python","Technical Writting"]
+        }
+        
+        
+    },
+    "contact": {
+        "title": "I’m ready to talk..."
+    }
+}
