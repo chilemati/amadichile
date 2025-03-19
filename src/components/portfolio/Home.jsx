@@ -6,7 +6,7 @@ import React from 'react'
 const Home = () => {
   return (
     <div id='Home' className=' w-[90%] md:w-[510px] mx-auto pt-[70px]'>
-        <h2 className="font-Inter font-bold text-[48px] text-co2 "> {home.line1} </h2>
+        <h2 className="font-Inter font-bold text-[30px] md:text-[48px] text-co2 "> {home.line1} </h2>
         <p className="font-Inter font-bold text-[24px] mt-2 text-co2">
             {parse(home.line2)}
         </p>
