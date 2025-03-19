@@ -112,7 +112,7 @@
                 "id": 2,
                 "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742243751/myPortfolio/jwclone_lwabkc.jpg",
                 "title": "Jw.org Clone",
-                "languages": ["React js","Node Js","Tailwind","Sass"],
+                "languages": ["React js","Tailwind","Sass"],
                 "dis": "First Intenship task of BrainWave Matrix Solution. ",
                 "code": {
                     "text": "Code",
@@ -199,7 +199,7 @@
         },
         "boxc": {
             "h3": "My experience includes but not limited",
-            "experience":["Html","Css","Sass","Tailwind","Bootstrap","JavaScript","TypeScript","React js","Next js","React-native","Node Js","Git","MongoDb","Ejs"],
+            "experience":["Html","Css","Sass","Tailwind","Bootstrap","JavaScript","TypeScript","React js","Next js","React-native","Vue js","Node Js","Git","MongoDb","Ejs"],
             "h4": "Learning",
             "learning":["Python","Technical Writting"]
         }
