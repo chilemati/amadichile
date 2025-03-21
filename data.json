@@ -172,7 +172,7 @@
                 "id": 6,
                 "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742243751/myPortfolio/dashboard_cme7rs.jpg",
                 "title": "Dashboard Project",
-                "languages": ["React js","Tailwind","Tailwind"],
+                "languages": ["React js","Tailwind","Sass"],
                 "dis": "A Dashboard web app. I added responsiveness which was absent in the figma design.",
                 "code": {
                     "text": "Code",
@@ -181,6 +181,21 @@
                 "demo": {
                     "text": "Demo",
                     "url": "https://dashboard-project-pied.vercel.app/"
+                }
+            },
+            {
+                "id": 9,
+                "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742577871/myPortfolio/grotivate_f8zivn.jpg",
+                "title": "Grotivate",
+                "languages": ["React-native","Tailwind"],
+                "dis": "Developed Grotivate, a React Native Agritech app, during CareerEx’s first incubation program. The project aimed to provide innovative agricultural solutions but was discontinued two months after the incubation program ended. This project enhanced my skills in mobile development, state management, and API integration",
+                "code": {
+                    "text": "Code",
+                    "url": "#isPrivate"
+                },
+                "demo": {
+                    "text": "Demo",
+                    "url": "https://drive.usercontent.google.com/download?id=1T28Av6OiAyGr8TzlJMKXN8WMSF1_S5DN&export=download&authuser=0"
                 }
             }
         ]
