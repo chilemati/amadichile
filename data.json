@@ -22,8 +22,8 @@
         }
     ],
     "home": {
-        "line1": "I'm Amadi Chile",
-        "line2": "<span className='text-bold text-co1' > Full-Stack Web Developer and Tutor </span>. I learn and teach everything about Website Development.",
+        "line1": "I'm Amadi Chile 🚀",
+        "line2": "<span className='text-bold text-co1  ' > Full-Stack Web Developer | Tutor | Problem-Solver. </span> I specialize in building scalable web applications and mentoring aspiring developers. Passionate about learning, teaching, and pushing the boundaries of web development.",
         "line3": {
             "boxa": [
                 {
@@ -187,7 +187,7 @@
                 "id": 9,
                 "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742577871/myPortfolio/grotivate_f8zivn.jpg",
                 "title": "Grotivate",
-                "languages": ["React-native","Tailwind"],
+                "languages": ["React-native","Tailwind","Expo"],
                 "dis": "Developed Grotivate, a React Native Agritech app, during CareerEx’s first incubation program. The project aimed to provide innovative agricultural solutions but was discontinued two months after the incubation program ended. This project enhanced my skills in mobile development, state management, and API integration",
                 "code": {
                     "text": "Code",
