@@ -22,7 +22,7 @@ const ProjectCards = ({data,show}) => {
                         ))
                     }
                 </div>
-                <p className="w-full pb-2 mb-2 h-[82px] font-Inter font-normal text-base text-co2 mt-4 bre "> {String(each.dis).slice(0,109)}{String(each.dis).length > 109?"...":""} </p>
+                <p className="w-full pb-2 mb-2 h-[82px] font-Inter font-normal text-base text-co2 mt-4 myScrollBar overflow-y-scroll "> {each.dis} </p>
                 <div className="flexStart gap-[15px] ">
                     <Link className='flexCenter gap-1 w-fit px-4 py-[7px] border-b-[2px] border-b-co1  ' target={String(each.code.url).includes('isPrivate')?"": "_blank"} to={each.code.url} > <img src="/code.svg" alt="view code" /> <span className="font-Inter font-bold text-base  ">{each.code.text}</span>  </Link>
                     <Link className='flexCenter gap-1 w-fit px-4 py-[7px] border-b-[2px] border-b-co1  ' target={String(each.demo.url).includes('isPrivate')?"": "_blank"} to={each.demo.url} > <img src="/check.svg" alt="view demo" /> <span className="font-Inter font-bold text-base     ">{each.demo.text}</span>  </Link>

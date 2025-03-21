@@ -96,3 +96,23 @@ html {
     color: white;
   }
 }
+
+.myScrollBar{
+  &::-webkit-scrollbar {
+    display: inline-block;
+    background-color: white;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color: white;
+    height: 10px;
+    width: 4px;
+    border-radius: 100%;
+  }
+
+  /* Hide scrollbar for IE, Edge and Firefox */
+  -ms-overflow-style: 2px; /* IE and Edge */
+  scrollbar-width: 2px; /* Firefox */
+}
