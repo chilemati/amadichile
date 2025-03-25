@@ -64,6 +64,21 @@
         "h2": "Latest Projects",
         "projects": [
             {
+                "id": 10,
+                "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742941968/myPortfolio/furniro_npaahb.jpg",
+                "title": "Furniro eCommerce",
+                "languages": ["React js","Cloudinary","Css","Tailwind","Recoil"],
+                "dis": "Developed this eCommerce website based on a Figma design, enhancing it with full responsiveness, which was absent in the original design. I implemented most required functionalities without a backend while ensuring a seamless user experience. To maintain design consistency, I built a custom pagination system, which will be valuable for future projects. Global state management was efficiently handled using Recoil, ensuring smooth data flow and performance. This project strengthened my skills in frontend development, state management, and UI/UX consistency. ",
+                "code": {
+                    "text": "Code",
+                    "url": "#isPrivate"
+                },
+                "demo": {
+                    "text": "Demo",
+                    "url": "https://ecommerce-react-kappa-navy.vercel.app/"
+                }
+            },
+            {
                 "id": 7,
                 "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742330298/myPortfolio/myMailer_hpb1pq.jpg",
                 "title": "Chile's Mailer",
