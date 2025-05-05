@@ -55,7 +55,7 @@
             "boxb": {
                 "name": "cv",
                 "icon": "/attachment.svg",
-                "url": "https://drive.usercontent.google.com/u/0/uc?id=1VVnhLBGYqKibJsWJtue14GhCJMpS6ICH&export=download"
+                "url": "https://drive.usercontent.google.com/u/0/uc?id=1a8N-ovxhRe52CvsZZnaW7skm0WEI8ib7&export=download"
             }
         }
 
@@ -68,7 +68,7 @@
                 "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1746444139/myPortfolio/blacktinum_hm8cba.jpg",
                 "title": "Blacktinum.io Landing page",
                 "languages": ["Next js","Css","Tailwind"],
-                "dis": "•Built and deployed the landing page for Blacktinum.io (formerly CryptoMarkings) using Next.js, delivering the project 30% faster than previous developers. ",
+                "dis": "Built and deployed the landing page for Blacktinum.io (formerly CryptoMarkings) using Next.js, delivering the project 30% faster than previous developers. ",
                 "code": {
                     "text": "Code",
                     "url": "#isPrivate"
