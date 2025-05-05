@@ -64,6 +64,36 @@
         "h2": "Latest Projects",
         "projects": [
             {
+                "id": 12,
+                "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1746444139/myPortfolio/blacktinum_hm8cba.jpg",
+                "title": "Blacktinum.io Landing page",
+                "languages": ["Next js","Css","Tailwind"],
+                "dis": "•Built and deployed the landing page for Blacktinum.io (formerly CryptoMarkings) using Next.js, delivering the project 30% faster than previous developers. ",
+                "code": {
+                    "text": "Code",
+                    "url": "#isPrivate"
+                },
+                "demo": {
+                    "text": "Demo",
+                    "url": "https://blacktinum.io/"
+                }
+            },
+            {
+                "id": 11,
+                "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1746444139/myPortfolio/mently_yac1oh.jpg",
+                "title": "Mently Job Interview Task",
+                "languages": ["Next js","Redux","Css","Tailwind"],
+                "dis": "Completed a responsive dashboard application as part of a technical evaluation for a frontend role at Mently, delivered within 3 days. ",
+                "code": {
+                    "text": "Code",
+                    "url": "#isPrivate"
+                },
+                "demo": {
+                    "text": "Demo",
+                    "url": "https://mently-techrity-six.vercel.app/"
+                }
+            },
+            {
                 "id": 10,
                 "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1742941968/myPortfolio/furniro_npaahb.jpg",
                 "title": "Furniro eCommerce",
