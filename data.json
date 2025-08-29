@@ -55,7 +55,7 @@
             "boxb": {
                 "name": "cv",
                 "icon": "/attachment.svg",
-                "url": "https://drive.usercontent.google.com/u/0/uc?id=1Vm-BuaehtJ8eSfr-E6JfKZGKXEclN-AU&export=download" 
+                "url": "https://drive.usercontent.google.com/u/0/uc?id=18IgrlkYm7Yv8DVrmTgfuRgUoAkmhyhZp&export=download" 
             }
         }
 
@@ -64,6 +64,37 @@
         "h2": "Latest Projects",
         "projects": [
             {
+                "id": 14,
+                "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1756426165/myPortfolio/ashinity_ammfhi.jpg",
+                "title": "Exclusive E-Commerce website",
+                "languages": ["React ts","Css","Tailwind","Redux","Mockapi","Cloudinary"],
+                "dis": "Built and deployed and E-Commerce website as my final project for Ashinity internship ",
+                "code": {
+                    "text": "Code",
+                    "url": "https://github.com/chilemati/ashinity-intenship-final-project"
+                },
+                "demo": {
+                    "text": "Demo",
+                    "url": "https://ashinity-intenship-final-project.vercel.app/"
+                }
+            },
+            {
+                "id": 13,
+                "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1756426165/myPortfolio/quickaid_trswph.jpg",
+                "title": "QuickAid",
+                "languages": ["React js","Css","Tailwind","Redux"],
+                "dis": "Volunteer project where I contributed to building the landing page and dashboard.",
+                "code": {
+                    "text": "Code",
+                    "url": "#PrivateRepository"
+                },
+                "demo": {
+                    "text": "Demo",
+                    "url": "https://quick-aid-mu.vercel.app/"
+                }
+            },
+            
+            {
                 "id": 12,
                 "img": "https://res.cloudinary.com/dlifiojbx/image/upload/v1746444139/myPortfolio/blacktinum_hm8cba.jpg",
                 "title": "Blacktinum.io Landing page",
@@ -71,7 +102,7 @@
                 "dis": "Built and deployed the landing page for Blacktinum.io (formerly CryptoMarkings) using Next.js, delivering the project 30% faster than previous developers. ",
                 "code": {
                     "text": "Code",
-                    "url": "#isPrivate"
+                    "url": "#PrivateRepository"
                 },
                 "demo": {
                     "text": "Demo",
@@ -86,7 +117,7 @@
                 "dis": "Completed a responsive dashboard application as part of a technical evaluation for a frontend role at Mently, delivered within 3 days. ",
                 "code": {
                     "text": "Code",
-                    "url": "#isPrivate"
+                    "url": "#PrivateRepository"
                 },
                 "demo": {
                     "text": "Demo",
@@ -101,7 +132,7 @@
                 "dis": "Developed this eCommerce website based on a Figma design, enhancing it with full responsiveness, which was absent in the original design. I implemented most required functionalities without a backend while ensuring a seamless user experience. To maintain design consistency, I built a custom pagination system, which will be valuable for future projects. Global state management was efficiently handled using Recoil, ensuring smooth data flow and performance. This project strengthened my skills in frontend development, state management, and UI/UX consistency. ",
                 "code": {
                     "text": "Code",
-                    "url": "#isPrivate"
+                    "url": "#PrivateRepository"
                 },
                 "demo": {
                     "text": "Demo",
@@ -131,7 +162,7 @@
                 "dis": "Developed a Chrome extension using JavaScript and Object-Oriented Programming (OOP) to prevent autoplaying videos on any website. This project enhanced my expertise in MVC implementation, a crucial design pattern for managing complex projects efficiently ",
                 "code": {
                     "text": "Code",
-                    "url": "#isPrivate"
+                    "url": "#PrivateRepository"
                 },
                 "demo": {
                     "text": "Demo",
@@ -176,7 +207,7 @@
                 "dis": "I updated and currently maintain this Website on Namecheap.",
                 "code": {
                     "text": "Code",
-                    "url": "#isPrivate"
+                    "url": "#PrivateRepository"
                 },
                 "demo": {
                     "text": "Demo",
@@ -191,7 +222,7 @@
                 "dis": "A web app I built to help People find skills and services close to them.",
                 "code": {
                     "text": "Code",
-                    "url": "#isPrivate"
+                    "url": "#PrivateRepository"
                 },
                 "demo": {
                     "text": "Demo",
@@ -206,7 +237,7 @@
                 "dis": "A Portfolio Website.",
                 "code": {
                     "text": "Code",
-                    "url": "#isPrivate"
+                    "url": "#PrivateRepository"
                 },
                 "demo": {
                     "text": "Demo",
@@ -221,7 +252,7 @@
                 "dis": "A Dashboard web app. I added responsiveness which was absent in the figma design.",
                 "code": {
                     "text": "Code",
-                    "url": "#isPrivate"
+                    "url": "#PrivateRepository"
                 },
                 "demo": {
                     "text": "Demo",
@@ -236,7 +267,7 @@
                 "dis": "Developed Grotivate, a React Native Agritech app, during CareerEx’s first incubation program. The project aimed to provide innovative agricultural solutions but was discontinued two months after the incubation program ended. This project enhanced my skills in mobile development, state management, and API integration",
                 "code": {
                     "text": "Code",
-                    "url": "#isPrivate"
+                    "url": "#PrivateRepository"
                 },
                 "demo": {
                     "text": "Demo",
